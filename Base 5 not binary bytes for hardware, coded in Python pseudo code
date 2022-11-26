@@ -1,0 +1,39 @@
+#Base 5 including variable names for first five digits 0-4
+#initialise/setup:
+
+# let zero = '+'
+# let one = '-'
+# let double = '-'
+# let ayeayeaye = '-'
+# let eyeVee = '-'
+
+# this is equivalent to the first digit zero,
+# as zero is +ive and all other 4 are negative.
+
+# Note: max and min one and one only must equal positive (+)
+# and all other four must be equal to negative (-).
+
+# This Base 5 "byte", rather than a binary "bit",
+# could become useful.
+
+# of course, Base 5 may be arbitrary but it's my chosen start point.
+# whatever the starting number system / "Base",
+# this can, through linear (Python) coding, be later
+# metaphorically "boxed up" and the next level.of abstraction
+# can be used.
+
+# Firstly, a series of 5 digit bits could be strung together 
+# to create a Base 5 PC hardware architecture
+# through reverse engineering, depending on what 
+# useful cases and purposes, if any, are found
+# from this system.
+
+# many happy returns, 
+# athleisure gothic barbie
+
+# any advice on Python study resources appreciated
+# any guidance on how to learn the difference between 
+# compilers and assemblers also appreciated
+
+# bye for now, athleisure gothic barbie
+# +end+
